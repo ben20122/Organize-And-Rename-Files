@@ -23,7 +23,7 @@ Edit the three variables in the CONFIG section:
 3. SKIPPED_FOLDER:     Where files go if they're missing valid metadata or unsupported.
 
 Example usage:
-    python organize_media.py
+    organize_and_rename_files.py
 """
 
 import os
